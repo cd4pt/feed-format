@@ -1,0 +1,35 @@
+{
+    "train_number": "1021M",
+    "train_name": "",
+    "train_type":"快速",
+    "car_type":"E233",
+    "train_destination": [
+        "A",
+        "B"
+    ],
+    "car_information": [
+        {
+            "car_number": 1, //begin from 1
+            "car_destination": "A",
+            "equipment":["toilet"]
+        },
+        {
+            "car_number": 2,
+            "car_destination": "A"
+        },
+        {
+            "car_number": 3,
+            "car_destination": "A",
+            "dead_end":[4] //連結などによる行き止まり
+        },
+        {
+            "car_number": 4,
+            "car_destination": "B",
+            "dead_end":[3]
+        },
+        {
+            "car_number": 5,
+            "car_destination": "B"
+        }
+    ]
+}
