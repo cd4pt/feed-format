@@ -1,8 +1,8 @@
 {
     "train_number": "1021M",
     "train_name": "",
-    "train_type":"快速",
-    "car_type":"E233",
+    "train_type":{"code":"jreast.hogeline.local","ja":"普通","en":"Local"},
+    "car_type":["E233-1000"],
     "train_destination": [
         "A",
         "B"
@@ -31,5 +31,6 @@
             "car_number": 5,
             "car_destination": "B"
         }
-    ]
+    ],
+    "current_location": "HOGE"
 }
