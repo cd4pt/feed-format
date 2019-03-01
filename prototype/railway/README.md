@@ -1,6 +1,7 @@
 # CD4PT railway
 
 鉄道、モノレールなどを扱うカテゴリです。
+以下は全て草案です。
 
 ## specific-train-status.json
 
@@ -29,7 +30,7 @@
     - 車両オブジェクト
         - car_number (int)
             - n号車を示します。1から始めます。
-            - **JRの総武線・横須賀線に存在する「増1号車」などの形式を扱えていません**
+            - **問題**: JRの総武線・横須賀線に存在する「増1号車」などの形式を扱えていません
         - car_destination (string)
             - 車両ごとの行先を示します。
         - dead_end (int, array)
