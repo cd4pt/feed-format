@@ -12,6 +12,8 @@ GTFS（および標準的なバス情報フォーマット）が事実上バス�
 
 ## 参加方法
 
+**GitHubのアカウント作成方法は[こちらのページ](./document/how-to-sign-up.md)で解説しております。**
+
 ### GitHub に不慣れな方
 
 [Issue（イシュー）](https://github.com/cd4pt/feed-format/issues)機能を用いて、参加表明の書き込みを行ってください。氏名、所属、SNSアカウントなどは可能であればご記入ください。
