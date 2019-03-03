@@ -82,3 +82,4 @@ GTFSなど、既存フォーマットへの変換をサポートしたい。
 |:---|:---|:---|:---|:---|
 |[ryo-a](https://github.com/ryo-a)|ryo-a (Ryo Aramaki)|慶應義塾大学|[@geo_vitya(Twitter)](https://twitter.com/geo_vitya)||
 |[kn1cht](https://github.com/kn1cht)|K Ito|東京大学|||
+|[toyotamakenkyusyo](https://github.com/toyotamakenkyusyo)|豐多摩研究所|ウェブサイト「豐多摩研究所」管理人|[Webサイト](https://ss1.xrea.com/toyotama.g1.xrea.com/index.xhtml)||
