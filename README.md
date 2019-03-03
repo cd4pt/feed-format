@@ -76,6 +76,9 @@ GTFSなど、既存フォーマットへの変換をサポートしたい。
 
 ## 参加者
 
+現時点では参加順です。多くなった時点でカテゴリ分けなどを考えます。
+
 |ユーザ名|氏名・ハンドルネーム等|所属|SNSアカウント等|備考|
 |:---|:---|:---|:---|:---|
-|[ryo-a](https://github.com/ryo-a)|ryo-a|個人・慶應義塾大学|[@geo_vitya(Twitter)](https://twitter.com/geo_vitya)||
+|[ryo-a](https://github.com/ryo-a)|ryo-a (Ryo Aramaki)|慶應義塾大学|[@geo_vitya(Twitter)](https://twitter.com/geo_vitya)||
+|[kn1cht](https://github.com/kn1cht)|K Ito|東京大学|||
